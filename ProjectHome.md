@@ -1,0 +1,1 @@
+Open source PHP profanity filter
